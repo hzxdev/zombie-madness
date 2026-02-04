@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04d27e8a664d0bb4ba4020854e38acbf, type: 3}
+  m_Name: ExplosiveZombie
+  m_EditorClassIdentifier: 
+  zombieName: ExplosiveZombie
+  zombieType: 3
+  animOverride: {fileID: 22100000, guid: a869bd51abbe2044bad8ff82f98e946e, type: 2}
+  wanderingSpeed: 0.2
+  chasingSpeed: 2.4
+  health: 100
+  damageMin: 0
+  damageMax: 0
+  setTargetPeriod: 0.5
+  chasingStamina: 20
+  killedCoin: 75

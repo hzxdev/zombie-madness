@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CrawlingZombie
+  m_Controller: {fileID: 9100000, guid: 64078d65fa0d30c41a95ba524fb042d7, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 9475a6e343edb4f42bbeddf1cf04d881,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 1f96ac35e12ac4d45be4de0e84d10a15,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 7416f01560843d242ad8f9097fb060c5,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 6519653f686708f4fbc918db5223970a,
+      type: 3}

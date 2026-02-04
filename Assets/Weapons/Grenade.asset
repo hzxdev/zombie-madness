@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 784c7df4fd90639488ec01829b546364, type: 3}
+  m_Name: Grenade
+  m_EditorClassIdentifier: 
+  weaponName: Grenade
+  weaponId: 5
+  weaponType: 5
+  weaponIcon: {fileID: 21300022, guid: 5163ae49a0de665458bba61cd20c99b1, type: 3}
+  weaponRealModelIcon: {fileID: 21300000, guid: 0b19a524091320e4daa8f40cf7d5e84a,
+    type: 3}
+  maxTotalAmmo: 10000
+  maxMagAmmo: 0
+  headDamage: 275
+  bodyDamage: 275
+  limbDamage: 275
+  bulletCount: 1
+  cooldown: 1.75
+  range: 3.5
+  standingSpread: 0
+  movingSpread: 0
+  verticalRecoil: 0
+  horizontalRecoil: 0
+  holdUse: 0
+  animatorOverride: {fileID: 0}
+  rightHandXOffset: 0
+  rightHandZOffset: 0
+  droppedPrefab: {fileID: 0}
+  description: 
+  pickupAmmo: 3
+  magPrice: 500
+  zombieSlowDownTime: 3
+  unlockDay: 8
+  thrownProjectileObj: {fileID: 1302113399380556455, guid: aa9d54733e9b10a40b1a266264d1b58a,
+    type: 3}

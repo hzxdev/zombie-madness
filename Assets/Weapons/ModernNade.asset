@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 784c7df4fd90639488ec01829b546364, type: 3}
+  m_Name: ModernNade
+  m_EditorClassIdentifier: 
+  weaponName: ModernNade
+  weaponId: 6
+  weaponType: 5
+  weaponIcon: {fileID: 21300032, guid: 5163ae49a0de665458bba61cd20c99b1, type: 3}
+  weaponRealModelIcon: {fileID: 21300000, guid: 17c7fd4fb13b82a478cbfea5a7a13b89,
+    type: 3}
+  maxTotalAmmo: 10000
+  maxMagAmmo: 0
+  headDamage: 350
+  bodyDamage: 350
+  limbDamage: 350
+  bulletCount: 1
+  cooldown: 1.75
+  range: 4.5
+  standingSpread: 0
+  movingSpread: 0
+  verticalRecoil: 0
+  horizontalRecoil: 0
+  holdUse: 0
+  animatorOverride: {fileID: 0}
+  rightHandXOffset: 0
+  rightHandZOffset: 0
+  droppedPrefab: {fileID: 0}
+  description: 
+  pickupAmmo: 10
+  magPrice: 1000
+  zombieSlowDownTime: 4
+  unlockDay: 20
+  thrownProjectileObj: {fileID: 4588609806092246223, guid: 47b557ed58fb9fa45925781f8baea089,
+    type: 3}
