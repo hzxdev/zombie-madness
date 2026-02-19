@@ -73,3 +73,18 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Assets/Wolf_Animated
+/Assets/Kevin Iglesias
+/Assets/Sci-Fi Weapons
+/Assets/Ultra Skybox Fog
+/Assets/Tools/AutoLOD
+/Assets/Scripts/IAP
+/Assets/Scripts/Ads
+Assets/Resources/IAPProductCatalog.json
+/Assets/Models/Travis Game Assets
+/Assets/Models/Survival Weapons
+/Assets/Models/Modern Weapons
+/Assets/Models/low-poly-treasure-chest-set
+/Assets/Joystick Pack
+Assets/Plugins/Android/GoogleMobileAdsPlugin.androidlib/AndroidManifest.xml
+Assets/Plugins/Android/AndroidManifest.xml.DISABLED

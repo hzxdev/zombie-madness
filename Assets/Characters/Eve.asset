@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b94f59ae08c6df4d9c1b1a360f68c75, type: 3}
+  m_Name: Eve
+  m_EditorClassIdentifier: 
+  characterName: Eve
+  characterId: 2
+  model: {fileID: 919132149155446097, guid: 7df7efc92c71f884b959c3597e2950db, type: 3}
+  characterPreviewImage: {fileID: 21300000, guid: 09b3959a9cea30343a73e89027e2bd69,
+    type: 3}
+  avatar: {fileID: 9000000, guid: 7df7efc92c71f884b959c3597e2950db, type: 3}
+  characterCurrency: 1
+  characterPrice: 40
+  damageMultiplier: 1.1
+  maxHealth: 150
+  speed: 5
+  rightHandAimAxis: 0
+  rightHandUpxis: 4
+  characterDescription: 

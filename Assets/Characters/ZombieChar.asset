@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b94f59ae08c6df4d9c1b1a360f68c75, type: 3}
+  m_Name: ZombieChar
+  m_EditorClassIdentifier: 
+  characterName: Zombie
+  characterId: 4
+  model: {fileID: 919132149155446097, guid: 80964e82629d6c242805c4cde24ba1e5, type: 3}
+  characterPreviewImage: {fileID: 21300000, guid: b2f0f478bfe1e4f46b31a057b965077b,
+    type: 3}
+  avatar: {fileID: 9000000, guid: 80964e82629d6c242805c4cde24ba1e5, type: 3}
+  characterCurrency: 1
+  obtainedBy: 1
+  characterPrice: 50
+  damageMultiplier: 0
+  maxHealth: 150
+  speed: 5
+  rightHandAimAxis: 0
+  rightHandUpxis: 4
+  hurtSounds:
+  - zombie1
+  - zombie2
+  - zombie3
+  - zombie4
+  characterDescription: 'Only playable in
+
+    RESURRECTION mode'

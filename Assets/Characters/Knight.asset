@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b94f59ae08c6df4d9c1b1a360f68c75, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  characterName: Knight
+  characterId: 8
+  model: {fileID: 919132149155446097, guid: 6d1ec1334d015b54099cd3457342a774, type: 3}
+  characterPreviewImage: {fileID: 21300000, guid: 6ac5eb4d1028865489681d643eb933a5,
+    type: 3}
+  avatar: {fileID: 9000000, guid: 6d1ec1334d015b54099cd3457342a774, type: 3}
+  characterCurrency: 1
+  obtainedBy: 0
+  characterPrice: 15
+  damageMultiplier: 1.5
+  maxHealth: 125
+  speed: 4.5
+  rightHandAimAxis: 2
+  rightHandUpxis: 1
+  hurtSounds:
+  - male2hurt1
+  - male2hurt2
+  - male2hurt3
+  - male2hurt4
+  - male2hurt5
+  - male2hurt6
+  characterDescription: 'ALSO OBTAINED BY:
+
+    Ad Reward Offers'

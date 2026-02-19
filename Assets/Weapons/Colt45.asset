@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 784c7df4fd90639488ec01829b546364, type: 3}
+  m_Name: Colt45
+  m_EditorClassIdentifier: 
+  weaponName: Colt45
+  weaponId: 2
+  weaponType: 4
+  weaponIcon: {fileID: 21300010, guid: 6674e8c43c63e4f4184cbd009379498d, type: 3}
+  weaponRealModelIcon: {fileID: 21300000, guid: ed81fe262836b3b459733044c73172f2,
+    type: 3}
+  maxTotalAmmo: 48
+  maxMagAmmo: 12
+  headDamage: 65
+  bodyDamage: 25
+  limbDamage: 15
+  bulletCount: 1
+  cooldown: 0.2
+  range: 40
+  standingSpread: 4.25
+  movingSpread: 15
+  verticalRecoil: 0.2
+  horizontalRecoil: 2
+  holdUse: 0
+  animatorOverride: {fileID: 22100000, guid: 4cd6af6d73c5cb14cae28a04d0cb9bd4, type: 2}
+  rightHandXOffset: 0
+  rightHandZOffset: 5
+  droppedPrefab: {fileID: 6977861779218745116, guid: 3b047e99171762841a0fd19bb7d01406,
+    type: 3}
+  description: 
+  pickupAmmo: 36
+  magPrice: 100
+  zombieSlowDownTime: 3
+  unlockDay: 0
+  thrownProjectileObj: {fileID: 0}

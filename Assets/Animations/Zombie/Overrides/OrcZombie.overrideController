@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OrcZombie
+  m_Controller: {fileID: 9100000, guid: 64078d65fa0d30c41a95ba524fb042d7, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: e7c907701b0296642af4dbee044c0492,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 883c8ccf889cdb641931af5c30aadc93,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: a937cbce4a3043f4197d60308d3c651b,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: dfadf9ca1086aaf42bfa581b1f38e888,
+      type: 3}

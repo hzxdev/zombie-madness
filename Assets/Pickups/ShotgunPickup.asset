@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25d5c8cd296754e46bb3c6869a65a1cf, type: 3}
+  m_Name: ShotgunPickup
+  m_EditorClassIdentifier: 
+  pickupName: 
+  pickupId: 4
+  pickupType: 2
+  value: 0
+  prefab: {fileID: 3067870708532397504, guid: 85113b5b110e1a44ab1bfab180686a68, type: 3}
+  particlePrefab: {fileID: 2934228568550771820, guid: 9dd1757f39b9d8f42ac75bb2f1a0418c,
+    type: 3}
