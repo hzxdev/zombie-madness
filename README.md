@@ -7,4 +7,5 @@ Unity project files for my game "ZOMBIE MADNESS", with API keys and third-party 
 Try the browser version here:
 https://hzxlabs.itch.io/zombie-madness
 
-License: All Rights Reserved. This repository is for viewing and portfolio purposes only. No part of this code or its assets may be redistributed or used for commercial purposes without explicit permission.
+## License:
+All Rights Reserved. This repository is for viewing and portfolio purposes only. No part of this code or its assets may be redistributed or used for commercial purposes without explicit permission.
